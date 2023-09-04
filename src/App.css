@@ -1,0 +1,8 @@
+::selection {
+  background-color: #b3d4fc;
+  color: #000;
+  text-shadow: none;
+}
+.homepageBannerSlider{
+  display: flex !important;
+}
